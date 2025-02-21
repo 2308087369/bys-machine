@@ -12,3 +12,5 @@ This project implements a **Bayesian Machine Scientist** to aid in the discovery
 - Supports **automatic model selection** based on Bayesian Information Criterion (BIC)
 - Compares results against **existing machine learning methods**
 
+Ref.
+Roger Guimerà et al. ,A Bayesian machine scientist to aid in the solution of challenging scientific problems.Sci. Adv.6,eaav6971(2020).DOI:10.1126/sciadv.aav6971
